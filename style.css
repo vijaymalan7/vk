@@ -167,6 +167,9 @@
 
         .footer ul {
             list-style: none;
+            display: grid;
+            grid-template-columns: repeat(4, 2fr);
+            grid-column-gap: 2rem;
         }
 
         .footer>div {
