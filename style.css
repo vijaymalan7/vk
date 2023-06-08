@@ -231,4 +231,18 @@
         .footer .footer-fourth  :hover{
             color: rgb(43, 43, 190);
         }
-        
+        .project{
+            max-width: 80vw;
+            margin: auto;
+            height: 80vh;
+            font-size: 2rem;
+
+            
+        }
+        .project span{
+            color: aqua;
+        }
+        .project video{
+            margin-top: 20px;
+        }
+
